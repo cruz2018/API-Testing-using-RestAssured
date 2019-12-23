@@ -19,13 +19,7 @@ Pre-Requisites
   
   Go to maven repository
   
-  <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
-<dependency>
-    <groupId>io.rest-assured</groupId>
-    <artifactId>rest-assured</artifactId>
-    <version>4.1.2</version>
-    <scope>test</scope>
-</dependency>
+ 
 
   <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
   <dependency>
