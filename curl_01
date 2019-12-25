@@ -7,3 +7,7 @@ $ curl -H "Authorization: Basic Yjc...cK" -d grant_type=refresh_token -d refresh
 An example cURL request and response from the token endpoint will look something like this:
 
 curl -H "Authorization: Basic ZjM...zE=" -d grant_type=authorization_code -d code=MQCbtKe...44KN -d redirect_uri=https%3A%2F%2Fwww.foo.com%2Fauth https://accounts.spotify.com/api/token
+
+
+curl -H "Authorization: Bearer NgCXRK...MzYjw" https://api.spotify.com/v1/me
+
